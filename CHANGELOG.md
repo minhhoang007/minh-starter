@@ -4,6 +4,10 @@ All notable changes to this starter are documented here. Format: [Keep a Changel
 
 ## [Unreleased]
 
+### Changed — agent skills (ideas from DietrichGebert/ponytail, adapted; plugin not installed)
+- `karpathy-guidelines` §2: reuse order before new code (repo → stdlib → platform feature → installed dependency) and `// simplification:` comments for deliberate shortcuts.
+- `systematic-debugging`: grep every caller and fix in the shared function.
+
 ## [1.0.0-rc.15] - 2026-10-05
 
 ### Added — agent skills (ideas from obra/superpowers, adapted; plugin not installed)
